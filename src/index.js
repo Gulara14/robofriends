@@ -14,7 +14,7 @@ root.render (
   ) 
 
 
-// ReactDOM.render(
+// ReactDOM.render()
 //             <CardList robots= {robots}/> 
 // , document.getElementById("root"));
 
